@@ -1,0 +1,295 @@
+* {
+    margin: 0;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+    margin-bottom: 20px;
+}
+.image1 img{
+    margin-top: 80px;
+}
+html {
+    scroll-behavior: smooth;
+}
+
+#home {
+    background: #f5df4e;
+    height: 600px;
+  
+}
+.first{
+    margin-left: 300px;
+    font-weight: 600px;
+    margin-top: 5px;
+}
+.abatu{
+    margin-left: 450px;
+    font-weight: 500px;
+    margin-top: 1px;
+}
+
+.text-center {
+    text-align: center;
+   
+}
+
+.mx-auto {
+    margin-left: auto !;
+    margin-right: auto !;
+}
+
+.row>* {
+    flex-shrink: 0;
+    margin-top: var(--bs-gutter-y);
+    max-width: 100%;
+    width: 100%;
+}
+
+h2 {
+    font-size: 30px;
+    color: rgba(19, 18, 18, 0.904);
+    margin-bottom: 30px;
+
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: rgba(20, 16, 16, 0.945);
+    margin-top: 4px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+}
+
+*,
+:after,
+:before {
+    box-sizing: border-box;
+}
+
+user agent stylesheet div {
+    display: block;
+}
+
+.btn1 {
+    background: rgba(22, 20, 20, 0.918);
+    width: 140px;
+    height: 60px;
+    color: white;
+    cursor: pointer;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: none;
+    border-radius: 1px 1px 1px 1px;
+    
+    margin-left: 550px;
+}
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+    padding: 10px;
+
+}
+
+.navbar a {
+    color: rgba(0, 0, 0, 0.781);
+    text-decoration: none;
+    padding: 2px;
+    margin-right: 1px;
+    background-color: white;
+    font-weight: bold;
+}
+
+.navbar-brand {
+    color: black;
+    font-size: 24px;
+    margin-left: 5px;
+    height: 10px;
+    letter-spacing: 5px;
+    box-shadow: 5px black;
+}
+
+
+::-webkit-scrollbar-thumb {
+    background: black;
+
+}
+
+::-webkit-scrollbar-track {
+    background-color: yellow;
+}
+
+.btn3 {
+    background: rgba(212, 212, 12, 0.685);
+    width: 110px;
+    height: 30px;
+    color: rgba(0, 0, 0, 0.945);
+    cursor: pointer;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: absolute;
+    border: none;
+    margin-right: 50px;
+    border-radius: 1px 1px 1px 1px;
+    margin-top: 70px;
+    margin-bottom: 10px;
+    margin-left: 550px;
+}
+
+.namediv {
+    margin-bottom: 20px;
+}
+
+.me {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: rgba(20, 16, 16, 0.945);
+    margin-top: 70px;
+    margin-bottom: 70px;
+    margin-left: 50px;
+}
+
+.me span.name {
+    font-weight: bold;
+    text-decoration: underline yellow;
+    margin-bottom: 5px;
+}
+
+.header {
+    margin-top: 0px;
+    margin-left: 455px;
+    margin-bottom: 40px;
+}
+
+.header h3 {
+    font-size: 40px;
+}
+
+.flex-container {
+    display: flex;
+    background-color: white;
+}
+
+.flex-container>div {
+    margin: 20px;
+    padding: 20px;
+    font-size: 10px;
+    margin-top: 10px;
+}
+
+.texts {
+    font-weight: bolder;
+
+}
+
+.dark {
+    font-weight: bolder;
+}
+
+.date {
+    font-weight: bolder;
+}
+
+.place {
+    font-weight: bolder;
+}
+
+.text7 {
+    float: right;
+    font-size: 30px;
+    margin-top: 140px;
+    font-weight: bold;
+}
+.text{
+    justify-content: space-between;
+}
+.text-5{
+    float: left;
+}
+
+.wow {
+    float: right;
+    margin-right: 90px;
+}
+.circle{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border-radius: 70px 70px 70px 70px;
+    margin-left: 958px;
+    margin-top: 50px;
+
+}
+.wowspan{
+    font-size: 120px;
+    font-weight: bold;
+}
+.experience{
+    font-weight: bold;
+    font-size: 30px;
+}
+.flex-container{
+    margin-left: 1px;
+    float: left;
+    margin-top: 30px;
+}
+#services{
+    background: #ddd;
+    margin-top: 410px;
+    margin-left: 20px; 
+    height: 800px;
+
+}
+.simply{
+    font-size: 20px;
+
+
+}
+.aimable{
+   display:  flex;
+   flex-direction: row;
+   width: 1200px;
+   justify-content: space-between;
+   margin-bottom: 100px;
+}
+.row2{
+    display:  flex;
+    flex-direction: row;
+    width: 1200px;
+    justify-content: space-between;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+.next{
+    margin-bottom: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-left: 245px;
+    font-size: 50px;
+   
+}
+.next0{
+        background: rgba(212, 212, 12, 0.685);
+        width: 110px;
+        height: 30px;
+        color: rgba(0, 0, 0, 0.945);
+        cursor: pointer;
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: absolute;
+        border: none;
+        margin-right: 50px;
+        border-radius: 1px 1px 1px 1px;
+        margin-top: 70px;
+        margin-bottom: 10px;
+        margin-left: 580px;
+}
+.ui{
+    margin-left: 100px;
+}
+.app{
+    margin-left: 100px;
+}
